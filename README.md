@@ -6,6 +6,7 @@ term_frequencies
 terms
 webpages
 
+
 mysql> DESCRIBE term_frequencies
 +---------+-------------+------+-----+---------+-------+
 | Field   | Type        | Null | Key | Default | Extra  |
